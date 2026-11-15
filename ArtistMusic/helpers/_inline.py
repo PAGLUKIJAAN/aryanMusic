@@ -6,9 +6,9 @@
 # Powered By   : Artist
 # Type         : API Based Telegram Music Bot
 #
-# Bot          : @ArtistApibot 
-# Channel      : https://t.me/artistbots
-# GitHub       : https://github.com/elevenyts/ArtistXMusic
+# Bot          : @SMART_X_MUSICBOT 
+# Channel      : https://t.me/GIRLS_BOYS_DP_STYLISH
+# GitHub       : https://github.com/vikashmusic1hh/ArtistXMusic
 #
 # Unauthorized copying, modification, or redistribution
 # of this source code without permission is prohibited.
