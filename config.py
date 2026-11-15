@@ -6,9 +6,9 @@
 # Powered By   : Artist 
 # Type         : API Based Telegram Music Bot
 #
-# Bot          : @ArtistApibot
-# Channel      : https://t.me/artistbots
-# GitHub       : https://github.com/elevenyts/ArtistMusic
+# Bot          : @SMART_X_MUSICBOT
+# Channel      : https://t.me/GIRLS_BOYS_DP_STYLISH
+# GitHub       : https://github.com/vikashmusic1hh/ArtistXMusic
 #
 # Unauthorized copying, modification, or redistribution
 # of this source code without permission is prohibited.
@@ -43,8 +43,8 @@ class Config:
         self.SESSION3: str = getenv("STRING_SESSION3", "")
 
         # Support Links
-        self.SUPPORT_CHANNEL: str = getenv("SUPPORT_CHANNEL", "https://t.me/Elevenytschats")
-        self.SUPPORT_CHAT: str = getenv("SUPPORT_CHAT", "https://t.me/Artistbots")
+        self.SUPPORT_CHANNEL: str = getenv("SUPPORT_CHANNEL", "https://t.me/GIRLS_BOYS_DP_STYLISH")
+        self.SUPPORT_CHAT: str = getenv("SUPPORT_CHAT", "https://t.me/IISMART_ABOUT")
 
         # Excluded Chats
         self.EXCLUDED_CHATS: List[int] = self._parse_excluded_chats()
@@ -68,10 +68,10 @@ class Config:
         self.COOKIES_URL: List[str] = self._parse_cookies()
 
         # Images
-        self.DEFAULT_THUMB: str = getenv("DEFAULT_THUMB", "https://graph.org/file/e9b9081be519f0e1413dd-a0fd9c7fc36c010a1c.mp4")
-        self.PING_IMG: str = getenv("PING_IMG", "https://graph.org/file/e9b9081be519f0e1413dd-a0fd9c7fc36c010a1c.mp4")
-        self.START_IMG: str = getenv("START_IMG", "https://graph.org/file/e9b9081be519f0e1413dd-a0fd9c7fc36c010a1c.mp4")
-        self.RADIO_IMG: str = getenv("RADIO_IMG", "https://graph.org/file/e9b9081be519f0e1413dd-a0fd9c7fc36c010a1c.mp4")
+        self.DEFAULT_THUMB: str = getenv("DEFAULT_THUMB", "https://i.ibb.co/1Yxm66Pp/uploaded-image.jpg")
+        self.PING_IMG: str = getenv("PING_IMG", "https://i.ibb.co/1Yxm66Pp/uploaded-image.jpg")
+        self.START_IMG: str = getenv("START_IMG", "https://i.ibb.co/1Yxm66Pp/uploaded-image.jpg")
+        self.RADIO_IMG: str = getenv("RADIO_IMG", "https://i.ibb.co/1Yxm66Pp/uploaded-image.jpg")
         
         # Moderation
         self.EXCLUDED_USERNAMES: List[str] = getenv("EXCLUDED_USERNAMES", "").split()
