@@ -12,7 +12,7 @@
 
 <br>
 
-[![Telegram Channel](https://img.shields.io/badge/📢_Channel-Artistbots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/GIRLS_BOYS_DP_STYLISH)
+[![Telegram Channel](https://img.shields.io/badge/📢_Channel-smartbots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/GIRLS_BOYS_DP_STYLISH)
 [![Support Group](https://img.shields.io/badge/💬_Support-ArtistMusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/IISMART_ABOUT)
 
 </div>
